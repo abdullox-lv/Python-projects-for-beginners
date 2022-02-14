@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e813a90e-a5bd-4b4c-80bd-94a195f84143" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Python-projects-for-beginners.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quizz.py" afterDir="false" />
-    </list>
+    <list default="true" id="e813a90e-a5bd-4b4c-80bd-94a195f84143" name="Changes" comment="add quiz file via upload" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,8 +59,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644850845169</updated>
-      <workItem from="1644850846320" duration="303000" />
+      <workItem from="1644850846320" duration="625000" />
     </task>
+    <task id="LOCAL-00001" summary="add readme.md file">
+      <created>1644851306579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644851306579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add quiz file via upload">
+      <created>1644851465731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644851465731</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add readme.md file" />
+    <MESSAGE value="add quiz file via upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="add quiz file via upload" />
   </component>
 </project>
